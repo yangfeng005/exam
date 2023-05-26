@@ -40,29 +40,29 @@
 
 ​    1. 固定组卷，出卷人员手动从题库中逐个挑选题目添加到试卷中，可以细化每道试题的分数，考试时所有考生的考试题目和顺序都是相同的。这样的组卷模式，可以清楚地确定考试题目以及考核方向，从而更好地把控试卷的具体难度以及考核知识点，能更加精细化的管理试卷。
 
-![image-20230522104328121](/Users/yangfeng/Documents/image-20230522104328121.png)
+![image-20230522104328121](https://github.com/yangfeng005/exam/blob/main/images/image-20230522104328121.png)
 
-![image-20230522104448057](/Users/yangfeng/Documents/image-20230522104448057.png)
+![image-20230522104448057](https://github.com/yangfeng005/exam/blob/main/images/image-20230522104448057.png)
 
 ​     2.随机组卷：作为在线考试中最为常用的一种组卷方式，出卷人员从题库中按照题型、难易程度来进行筛选，然后设置相应的抽题数量后系统会根据随机、去边缘化的抽题规则进行组卷，以确保考试时每个考生的试卷都会不一样。这种组卷方式不仅可以展现试题的多样性，还可以在一定程度上防止考试作弊的发生。
 
-![image-20230522104423975](/Users/yangfeng/Documents/image-20230522104423975.png)
+![image-20230522104423975](https://github.com/yangfeng005/exam/blob/main/images/image-20230522104423975.png)
 
-![image-20230522104517259](/Users/yangfeng/Documents/image-20230522104517259.png)
+![image-20230522104517259](https://github.com/yangfeng005/exam/blob/main/images/image-20230522104517259.png)
 
 ## 在线考试
 
 ​      考试答题卡展示，答题进度动态计算，考试题目答案本地缓存，不用实时更新至数据库，降低系统负载。
 
-![image-20230522110332843](/Users/yangfeng/Documents/image-20230522110332843.png)
+![image-20230522110332843](https://github.com/yangfeng005/exam/blob/main/images/image-20230522110332843.png)
 
-![image-20230522110359086](/Users/yangfeng/Documents/image-20230522110359086.png)
+![image-20230522110359086](https://github.com/yangfeng005/exam/blob/main/images/image-20230522110359086.png)
 
-![image-20230522110924362](/Users/yangfeng/Documents/image-20230522110924362.png)
+![image-20230522110924362](https://github.com/yangfeng005/exam/blob/main/images/image-20230522110924362.png)
 
 ## 防作弊
 
-![image-20230522105235032](/Users/yangfeng/Documents/image-20230522105235032.png)
+![image-20230522105235032](https://github.com/yangfeng005/exam/blob/main/images/image-20230522105235032.png)
 
 1.题目乱序：选题组卷支持，随机组卷本身题目就是随机的，不存在题目乱序的需要。
 
@@ -90,13 +90,13 @@
 
 4.题目中包含简答题，即存在主观题时，需要人工阅卷判分。
 
-![image-20230522120509204](/Users/yangfeng/Documents/image-20230522120509204.png)
+![image-20230522120509204](https://github.com/yangfeng005/exam/blob/main/images/image-20230522120509204.png)
 
 ## 考试结果明细查看
 
 在考试阅卷结束后，如果不需要人工阅卷时，系统自动显示成绩，考生也可以直接通过“我的成绩”查询。如果包含主观题则需要阅卷人阅卷完成才能查看最终成绩。
 
-![image-20230522111348982](/Users/yangfeng/Documents/image-20230522111348982.png)
+![image-20230522111348982](https://github.com/yangfeng005/exam/blob/main/images/image-20230522111348982.png)
 
 # 咨询
 
