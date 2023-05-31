@@ -54,7 +54,7 @@
 
 ​      考试答题卡展示，答题进度动态计算，考试题目答案本地缓存，不用实时更新至数据库，降低系统负载。
 
-![image-20230522110332843](https://github.com/yangfeng005/exam/blob/main/images/image-20230522110332843.png)
+![image-20230522110332843](https://github.com/yangfeng005/exam/blob/main/images/WX20230531-142903%402x.png)
 
 ![image-20230522110359086](https://github.com/yangfeng005/exam/blob/main/images/image-20230522110359086.png)
 
