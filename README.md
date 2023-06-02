@@ -32,7 +32,7 @@
 
 难易程度：简单、一般、较难。
 
-![image-20230522111500459](images/image-20230522111500459.png)
+![image-20230522111500459](https://github.com/yangfeng005/exam/blob/main/images/image-20230522111500459.png)
 
 ## 多种组卷方式
 
