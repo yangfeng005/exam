@@ -33,6 +33,8 @@
 难易程度：简单、一般、较难。
 
 ![image-20230522111500459](https://github.com/yangfeng005/exam/blob/main/images/image-20230522111500459.png)
+填空题富文本自定义插件支持：
+![image-20230522111500421](https://github.com/yangfeng005/exam/blob/main/images/WX20230707-111837@2x.png)
 
 ## 多种组卷方式
 
